@@ -1,4 +1,3 @@
-
 # Spotter: Quezon City University Meeting Room Reservation System
 A university project. A user-friendly Meeting Room Booking System that simplifies the process of reserving meeting rooms within the library. All resources are free to use.
 
@@ -22,7 +21,7 @@ A university project. A user-friendly Meeting Room Booking System that simplifie
 ![](Screenshots/student-about.png)
 
 ## Guide
-To run the program, download the Spotter - Guide.pdf and follow the instructions.
+To run the program, download "Spotter - Guide.pdf" and follow the instructions.
 
 ## Technologies
 
