@@ -4,7 +4,6 @@ A university project. A user-friendly Meeting Room Booking System that simplifie
 ## Table of Contents
 
 - [Images](#images)
-- [Download](#download)
 - [Guide](#guide)
 - [Technologies](#technologies)
 
